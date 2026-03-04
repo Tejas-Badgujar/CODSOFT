@@ -30,6 +30,7 @@ The **Logistic Regression** model achieved an accuracy of **79.8%** on the test 
 | File | Description |
 |-----|-------------|
 | `Titanic Survival Prediction.ipynb` | Complete implementation of the project |
+|`Titanic-Dataset.csv `| Data Set |
 | `README.md` | Project documentation |
 
 ---
