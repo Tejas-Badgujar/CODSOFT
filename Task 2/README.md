@@ -58,4 +58,5 @@ This project demonstrates the complete machine learning pipeline including data 
 ---
 
 ## 👤 Author
-Rmy4143
+
+Tejas Badgujar
